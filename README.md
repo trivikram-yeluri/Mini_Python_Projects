@@ -11,8 +11,7 @@ A personal collection of small Python programs created while learning and experi
    ```bash
    git clone https://github.com/trivikram-yeluri/Mini_Python_Projects.git
    ```
-2. Navigate to a project folder.
-3. Run the Python script using:
+2. Run the Python script using:
    ```bash
    python script_name.py
    ```
